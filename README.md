@@ -1,6 +1,7 @@
 # Internet Status Bar
 
 ## Preview
+https://github.com/mahmoud-bebars/internet-connection-bar/assets/66588352/c28aad28-037d-42c0-b59a-66efa8facb7f
 
 ### Description
 
